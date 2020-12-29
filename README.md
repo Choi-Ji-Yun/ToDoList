@@ -1,4 +1,3 @@
 # My ToDoList
 
-https://choi-ji-yun.github.io/ToDoList/
-
+https://j1yun.github.io/ToDoList/
